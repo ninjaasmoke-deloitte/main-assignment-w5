@@ -1,0 +1,26 @@
+
+
+============================== 2022-06-01 11:50:01.349400 | d9977f62-7803-4cff-be05-1e9c4231e431 ==============================
+11:50:01.349400 [info ] [MainThread]: Running with dbt=1.1.0
+11:50:01.349400 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\nsaikj\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+11:50:01.349400 [debug] [MainThread]: Tracking: tracking
+11:50:01.697753 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5FB070>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5FAC80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5FAFB0>]}
+11:50:09.599314 [debug] [MainThread]: Starter project path: C:\Users\nsaikj\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+11:50:56.354660 [info ] [MainThread]: Profile main_assignment written to C:\Users\nsaikj\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+11:50:56.354660 [info ] [MainThread]: 
+Your new dbt project "main_assignment" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+11:50:56.354660 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5FB670>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5A3D60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002099B5A39D0>]}
