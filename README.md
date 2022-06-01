@@ -6,6 +6,11 @@ ___
 
 #### Table of Contents
 
-1. [Step 1: Download & extract data](#step-1-download--extract-data)
+| Step        | Name        |
+| ----------- | ----------- |
+| 1.          | [Download & extract data](#step-1-download--extract-data)|
+| 2.          |             |
+
+___
 
 #### Step 1: Download & extract data
