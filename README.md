@@ -12,6 +12,7 @@ ___
 | 2.          | [Setup Snowflake](#step-2-setup-snowflake) |
 | 3.          | [DBT](#step-3-dbt) |
 | 4.          | [Screenshots](#screenshots) |
+| 5.          | [Data Studio](#data-studio) |
 
 ___
 
@@ -164,6 +165,6 @@ select * from "MAIN_ASSIGNMENT"."PUBLIC"."M2_4_YTD"
 ```
 ![image](https://user-images.githubusercontent.com/104750177/171591339-63ef1950-4549-42e6-a7dd-4bf0e566b798.png)
 
-**M3: DataStudio**
+### Data Studio
 
 Link: [Data Studio](https://datastudio.google.com/reporting/f909ef97-f9f1-4644-b14b-5f3b580b17f8)
