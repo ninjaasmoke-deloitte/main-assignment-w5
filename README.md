@@ -87,6 +87,8 @@ select * from fund_category;
 
 ### Screenshots
 
+- The models are in [here](main_assignment/models/main).
+
 **M1.1**
 ```SQL
 select 
