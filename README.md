@@ -9,7 +9,7 @@ ___
 | Step        | Name        |
 | ----------- | ----------- |
 | 1.          | [Download & extract data](#step-1-download--extract-data) |
-| 2.          | [Setup Snowflake](#step-2-setup-snowflake) |
+| 2.          | [Snowflake](#step-2-snowflake) |
 | 3.          | [DBT](#step-3-dbt) |
 | 4.          | [Screenshots](#screenshots) |
 | 5.          | [Data Studio](#data-studio) |
@@ -22,7 +22,7 @@ ___
 * The  `NavHistory.csv` file had `"`.
 * Removed those by a simple find & replace.
 
-#### Step 2: Setup Snowflake
+#### Step 2: Snowflake
 
 * Created a new Database `MAIN_ASSIGNMENT`
 * Granted necessary permissions to `TRANSFORM_ROLE`
