@@ -1,0 +1,20 @@
+
+version: 2
+
+models:
+  - name: m1_1
+    description: "Monthly average NAV, Repurchase & Sale Price for each scheme"
+  - name: m1_2
+    description: "Find out each schemes Max and Min NAV value and Date it occurred"
+  - name: m2_1
+    description: "YTD, MTD, Performance"
+  - name: m2_1_ytd
+    description: "YTD Performance"
+  - name: m2_1_year
+    description: "1 Year Performance"
+  - name: m2_1_mtd
+    description: "MTD Performance"
+  - name: m2_4_ytd
+    description: "YTD performance for `Liquid` Funds"
+  - name: m2_4_mtd
+    description: "MTD performance for `Liquid` Funds"
