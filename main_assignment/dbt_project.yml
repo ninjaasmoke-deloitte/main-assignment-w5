@@ -6,6 +6,9 @@ name: 'main_assignment'
 version: '1.0.0'
 config-version: 2
 
+vars:
+  current_date_local: '2019-02-28'
+
 # This setting configures which "profile" dbt uses for this project.
 profile: 'main_assignment'
 
@@ -34,5 +37,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   main_assignment:
     # Config indicated by + and applies to all files under models/example/
-    example:
+    # example:
+    #   +materialized: view
+    main:
       +materialized: view
